@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096058827420",
+    "project_id": "veggies-2a35f",
+    "storage_bucket": "veggies-2a35f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096058827420:android:468c22877eceaf61c93359",
+        "android_client_info": {
+          "package_name": "com.digitaltaken.veggies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096058827420-ll76hmqb4i601ob9nh168hareatr8kfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRnfbUWTUoAWi01JcSWebdHsvwGeswF9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096058827420-ll76hmqb4i601ob9nh168hareatr8kfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
