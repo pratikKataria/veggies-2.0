@@ -34,7 +34,7 @@
         android:label="DeluxVeggies">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR_MAP_KEY" />
+            android:value="AIzaSyDRnfbUWTUoAWi01JcSWebdHsvwGeswF9E" />
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
