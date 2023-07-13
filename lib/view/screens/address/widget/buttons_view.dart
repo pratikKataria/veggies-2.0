@@ -96,9 +96,9 @@ class ButtonsView extends StatelessWidget {
                   }
                 }
               }
-              if(!_isAvailable) {
+              if(false) {
                 showCustomSnackBar(getTranslated('service_is_not_available', context), context);
-              }else {
+              } else {
                 AddressModel addressModel = AddressModel(
                   addressType: locationProvider.getAllAddressType[locationProvider.selectAddressIndex],
                   contactPersonName: contactPersonNameController.text ?? '',

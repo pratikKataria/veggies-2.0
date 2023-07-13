@@ -245,7 +245,7 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
                                               padding: EdgeInsets.only(bottom: Dimensions.PADDING_SIZE_SMALL),
                                               child: InkWell(
                                                 onTap: () async {
-                                                  if(_isAvailable) {
+                                                  if(true) {
                                                     order.setAddressIndex(index);
                                                     if(_kmWiseCharge) {
                                                       showDialog(context: context, builder: (context) => Center(child: Container(
@@ -316,7 +316,7 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
                                                       ]),
                                                     ),
 
-                                                    !_isAvailable ? Positioned(
+                                                    false ? Positioned(
                                                       top: 0, left: 0, bottom: 10, right: 0,
                                                       child: Container(
                                                         alignment: Alignment.center,
@@ -643,7 +643,7 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
                                       padding: EdgeInsets.only(bottom: Dimensions.PADDING_SIZE_SMALL),
                                       child: InkWell(
                                         onTap: () async {
-                                          if(_isAvailable) {
+                                          if(true) {
                                             order.setAddressIndex(index);
                                             if(_kmWiseCharge) {
                                               showDialog(context: context, builder: (context) => Center(child: Container(
@@ -714,7 +714,7 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
                                               ]),
                                             ),
 
-                                            !_isAvailable ? Positioned(
+                                            false ? Positioned(
                                               top: 0, left: 0, bottom: 10, right: 0,
                                               child: Container(
                                                 alignment: Alignment.center,

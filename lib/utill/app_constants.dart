@@ -2,7 +2,7 @@ import 'package:flutter_grocery/data/model/response/language_model.dart';
 import 'images.dart';
 
 class AppConstants {
-  static const String APP_NAME = 'Delux Veggies';
+  static const String APP_NAME = 'Delux Veggie';
   static const double APP_VERSION = 6.0;
   // static const String BASE_URL = 'https://new1.darshanpatidar.in';
   // static const String BASE_URL = 'https://grofresh-admin.6amtech.com';

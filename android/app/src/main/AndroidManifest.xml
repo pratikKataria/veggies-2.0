@@ -31,7 +31,7 @@
         android:icon="@mipmap/ic_launcher"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
-        android:label="DeluxVeggies">
+        android:label="DeluxVeggie">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyDRnfbUWTUoAWi01JcSWebdHsvwGeswF9E" />
